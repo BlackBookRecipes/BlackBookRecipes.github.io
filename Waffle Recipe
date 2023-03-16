@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <title>Waffle Recipe</title>
+  </head>
+
+  <body>
+    <div id="recipe">
+      <h3>Waffle Recipe</h3>
+      <h6>Dry Ingredients</h6>
+        <ul>
+          <li>1 c. flour</li>
+          <li>1 tbsp baking powder</li>
+        </ul>
+      <h6>Wet Ingredients</h6>
+        <ul>
+          <li>1 eggs</li>
+          <li>2 tbsp. sugar</li>
+          <li>2 tbsp. butter</li>
+          <li>1 c. milk</li>
+        </ul>
+      <h6>Intructions</h6>
+        <ol>
+          <li>Combine dry ingredients, set aside.</li>
+          <li>Separate egg yolk and egg white.</li>
+          <li>Combine egg yolk, butter, and milk, mix with dry ingredients.</li>
+          <li>Beat egg whites to stiff peaks, gradually adding sugar after 30s until fully incorporated.</li>
+          <li>Fold egg whites into batter.</li>
+          <li>Cook in waffle iron (approx. 1/3 c. batter per waffle)</li>
+        </ol>
+    </div>
+  </body>
+</html
